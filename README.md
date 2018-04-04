@@ -1,3 +1,3 @@
-# SQLite Triggers
+# Couchbase Lite Event Updates
 
-Experimenting with SQLite triggers in Java.
+Experimenting with Couchbase Lite event updates in Android Java.
