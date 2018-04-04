@@ -1,2 +1,5 @@
-# Build Output
-*.class
+# Gradle local directory
+.gradle
+
+# Build output
+build/
